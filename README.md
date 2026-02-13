@@ -1,4 +1,4 @@
-# 💝 Valentine's Day Proposal Prank App
+# 💝 Valentine's Day Proposal
 
 Demo: https://my-valentine-day-gift.netlify.app/
 
@@ -6,9 +6,9 @@ A fun, interactive React application designed to prank your special someone on V
 
 ## ✨ Features
 
-- **Playful "Yes" Button**: The "Yes" button is elusive! It moves away when hovered and changes its text to tease the user ("Please No 🥰", "think again 😃").
-- **The "No" Button Twist**: Clicking "No" is actually the way to proceed... but wait for the surprise!
-- **April Fool Prank**: Instead of a romantic acceptance, the user is greeted with an "April Fool" message and a funny video.
+- **Playful "no" Button**: The "no" button is elusive! It moves away when hovered and changes its text to tease the user ("Please yes 🥰", "think again 😃").
+- **The "yes" Button Twist**: Clicking "No" is actually the way to proceed... but wait for the surprise!
+- **will you handle my miscellaneous expenses**: Instead of a romantic acceptance, the user is greeted with an "kanna'ah surukatha" message and a funny video.
 - **Visual Effects**: 
   - Floating hearts background animation.
   - Continuous confetti celebration on the success screen.
