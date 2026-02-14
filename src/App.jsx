@@ -118,7 +118,7 @@ function App() {
       ) : (
         <div className="card">
           <h1 className="title">
-            <span className="highlight">Shanmuga Priya,</span>
+            <span className="highlight">UTHRA AMMU MAA,</span>
             Will you be my Valentine? 💖💞
           </h1>
 
